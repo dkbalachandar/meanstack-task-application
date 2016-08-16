@@ -1,0 +1,14 @@
+{
+  "name": "meanstack-task-application",
+  "version": "1.0.0",
+  "description": "Simple Mean stack application",
+  "main": "server.js",
+  "author": "Balachandar",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "method-override": "^2.3.6",
+    "mongoose": "^3.6.20",
+    "morgan": "^1.6.1"
+  }
+}
